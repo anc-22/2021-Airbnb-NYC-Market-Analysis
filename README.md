@@ -68,7 +68,8 @@ Location Data:
 
 ## 🔗 Live Demo
 
-[[View Interactive Dashboard on Tableau Public]([url](https://public.tableau.com/app/profile/anh.che/viz/DataStory_FinalProject_DataNexus/AirbnbNY#1))](#)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/anh.che/viz/DataStory_FinalProject_DataNexus/AirbnbNY)
+
 ## 📊 Visualization Gallery
 
 ### Pricing Analysis Dashboards
@@ -84,24 +85,6 @@ Location Data:
 3. **Market Trends**
    - Time series: Pricing evolution across neighborhoods
    - Stacked bars: Room type distribution and pricing by district
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Tableau Desktop 2020.4+ or Tableau Reader (free)
-- .rar extraction software
-
-### Installation
-```bash
-1. Clone the repository
-   git clone https://github.com/yourusername/airbnb-nyc-analysis.git
-
-2. Extract the Tableau workbook
-   Extract Airbnb_NY_Story_Dashboard.rar
-
-3. Open in Tableau
-   Double-click Airbnb_NY_Dashboard.twb
-```
 
 ### Dashboard Navigation
 The interactive dashboard includes:
@@ -123,17 +106,5 @@ This analysis provides actionable insights for:
 - **Identify high-value property types** and neighborhoods
 - **Understand market dynamics** for investment decisions
 - **Predict revenue potential** based on property characteristics
-
-## 📁 Project Structure
-```
-airbnb-nyc-analysis/
-├── data_and_visualizations/
-│   └── Airbnb_NY_Dashboard.twb
-│   └── data
-├── analysis/
-│   ├── pricing_analysis.docx
-├── final_presentation.pdf
-└── README.md
-```
 
 ---
